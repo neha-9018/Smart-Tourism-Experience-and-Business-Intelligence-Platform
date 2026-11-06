@@ -164,6 +164,9 @@ Mount Fuji, Lake Kawaguchiko, Chureito Pagoda, Aokigahara Forest, Fuji-Q Highlan
 > The Business Intelligence Dashboard and trip planner use **illustrative demonstration data** for educational and prototype purposes. No real customer, booking, or revenue data is represented. The AI recommendation engine is a **rule-based explainable prototype** and does not use any paid or external AI APIs.
 
 ---
+<img width="944" height="483" alt="Screenshot 2026-11-06 174250" src="https://github.com/user-attachments/assets/1bd536bc-8563-4614-8798-77daa6942ea4" /><img width="944" height="478" alt="Screenshot 2026-11-06 174312" src="https://github.com/user-attachments/assets/a6d2a181-713e-488e-a230-13983dc671d2" /><img width="959" height="481" alt="Screenshot 2026-11-06 174334" src="https://github.com/user-attachments/assets/c4d85868-fbf6-45a9-932a-1f3941210b61" />
+
+
 
 ## License
 
